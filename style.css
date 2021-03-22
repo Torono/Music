@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+canvas{
+    align-self: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
